@@ -1,0 +1,9 @@
+newmtl road
+
+Kd 0.5 0.5 0.5
+Ka 0.15 0.15 0.15
+Tf 1 1 1
+map_Kd road.png
+Ni 1
+Ns 1
+Ks 1 1 1

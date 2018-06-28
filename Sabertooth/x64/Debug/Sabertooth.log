@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(150): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(173): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(199): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(200): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(340): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(343): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(346): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(347): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\i852885\documents\github\curvegenerator\sabertooth\main.cpp(492): warning C4102: 'std': unreferenced label
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Sabertooth.vcxproj -> C:\Users\I852885\Documents\GitHub\curveGenerator\x64\Debug\Sabertooth.exe
